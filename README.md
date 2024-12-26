@@ -8,12 +8,13 @@ This project is an e-commerce website built with React.js and Vite for fast deve
 Project Setup Instructions
 
 Prerequisites:
-Node.js (v16 or higher)
-npm or yarn (npm is recommended for this project)
+    Node.js (v16 or higher)
+    npm or yarn (npm is recommended for this project)
 
-Steps to Run the Project
+Steps to Run the Project:
 
-1.Extract the Project Files: Unzip the project folder to your desired location.
+1.Clone the Repository:
+         git clone <repository_url>
 
 2.Install Dependencies: Navigate to the project directory in your terminal or command prompt and run the following command to install dependencies:
          npm install
